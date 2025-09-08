@@ -21,8 +21,7 @@ This approach allows users to intuitively recognize patterns, relationships, and
 ## Demonstration Video
 
 A short case study and demonstration of GenomeCruzer is available as a video.  
-[Download and watch the video (MP4)](https://github.com/acassisa/GenomeCruzer-CIBB---Milan
-/releases/download/v1.0/video.mp4)
+(https://github.com/acassisa/GenomeCruzer-CIBB---Milan/releases/download/GenomeCruzer/AnalysisMode.mov)
 
 
 
