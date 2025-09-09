@@ -1,3 +1,5 @@
+<img width="76" height="59" alt="image" src="https://github.com/user-attachments/assets/84a3dd16-796e-4b2c-a6ab-ce9e12351cc5" />
+
 # GenomeCruzer for CIBB
 
 Welcome!
@@ -20,7 +22,8 @@ This approach allows users to intuitively recognize patterns, relationships, and
 
 ## Demonstration Video
 
-A short case study and demonstration of GenomeCruzer is available as a video.  
+A short case study (570 colorectal cancer samples from TCGA) and demonstration of GenomeCruzer is available as a video. 
+
 (https://github.com/acassisa/GenomeCruzer-CIBB---Milan/releases/download/GenomeCruzer/AnalysisMode.mov)
 
 
@@ -30,6 +33,7 @@ A short case study and demonstration of GenomeCruzer is available as a video.
 ## License
 
 GenomeCruzer is released as **freeware** for the scientific community, with the aim of making complex genomic data more accessible and interpretable.
+(http://www.genomecruzer.com)
 
 ---
 
