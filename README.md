@@ -23,7 +23,12 @@ This approach allows users to intuitively recognize patterns, relationships, and
 ## Demonstration Video
 
 A short case study (570 colorectal cancer samples from TCGA) and demonstration of GenomeCruzer is available as a video. 
+View mdoe 1:
+(https://github.com/acassisa/GenomeCruzer-CIBB---Milan/releases/download/GenomeCruzer/ViewMode1.mov)
 
+View mode 2:
+
+Analysis mode:
 (https://github.com/acassisa/GenomeCruzer-CIBB---Milan/releases/download/GenomeCruzer/AnalysisMode.mov)
 
 
