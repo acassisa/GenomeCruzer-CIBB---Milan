@@ -27,6 +27,7 @@ View mdoe 1:
 (https://github.com/acassisa/GenomeCruzer-CIBB---Milan/releases/download/GenomeCruzer/ViewMode1.mov)
 
 View mode 2:
+(https://github.com/acassisa/GenomeCruzer-CIBB---Milan/releases/download/GenomeCruzer/ViewMode2.mov)
 
 Analysis mode:
 (https://github.com/acassisa/GenomeCruzer-CIBB---Milan/releases/download/GenomeCruzer/AnalysisMode.mov)
